@@ -109,5 +109,4 @@ GitLab CI stages: setup → test → security → build.
 
 ## 👤 Author
 
-**Евгений Акимов (Evgenii Akimov)** — System Analyst (AppSec & Cloud Solutions)  
-[Telegram](https://t.me/akimov_ev) • [GitHub](https://github.com/portfolio_akimov_e)
+**Евгений (Eugene)** — System Analyst (AppSec & Cloud Solutions)
